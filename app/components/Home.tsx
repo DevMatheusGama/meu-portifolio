@@ -29,7 +29,7 @@ export default function Home() {
                                 <span className="text-pink-400">Tailwind</span>, sempre aprendendo e evoluindo para entregar soluções rápidas, funcionais e bem estruturadas.</p>
                         </div>
                         <div
-                            className="flex flex-wrap gap-4 justify-center lg:justify-start"
+                            className="w-full flex flex-wrap gap-4 justify-center lg:justify-start"
                         >
                             <a
                                 href="#projetos"
@@ -49,7 +49,7 @@ export default function Home() {
                     <div className="flex items-center justify-center">
                         <div className="relative flex items-center justify-center rounded-[3rem] overflow-hidden border-4 border-white/10 shadow-2xl shadow-purple-500/30 h-105 w-full max-w-md">
                             <Image
-                                src="/image/application-smartphone-business-graph-analytics-260nw-1583248045.jpg"
+                                src="/image/583151315_1623226771992266_3821998191309457344_n.jpg"
                                 alt="Gráfico de analytics em smartphone"
                                 fill
                                 className="object-cover"
