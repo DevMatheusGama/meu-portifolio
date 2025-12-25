@@ -65,16 +65,16 @@ export default function Projetos() {
         },
         {
             id: 3,
-            title: "Lista de Tarefas",
+            title: "Portfólio Pessoal",
             description:
-                "Aplicação de Lista de Tarefas com Autenticação, desenvolvida com React, Next.js e Tailwind CSS, permitindo cadastro, login seguro e gerenciamento de tarefas. O projeto foca em autenticação, rotas protegidas, componentização e integração com banco de dados.",
-            image: "/imageProgetos/listaDeTarefa.png",
+                "Portfólio pessoal desenvolvido para apresentar projetos, habilidades e tecnologias, com foco em design moderno, boa experiência do usuário, responsividade e boas práticas de componentização, organização e deploy front-end.",
+            image: "/imageProgetos/Portifolio-Pessoal.png",
             color: "from-purple-600 to-pink-600",
-            badge: "✅ CRUD",
-            linkSite: "https://lista-de-tarefas-opal-six.vercel.app/",
-            linkGitHub: "https://github.com/DevMatheusGama/lista-de-tarefas",
+            badge: "🌐 Portfólio Pessoal",
+            linkSite: "https://meu-portifolio-snowy-five.vercel.app/",
+            linkGitHub: "https://github.com/DevMatheusGama/meu-portifolio",
             tags: [
-                { icon: FaReact, color: "text-sky-400", name: "React" },
+                { icon: FaReact, color: "text-sky-400", name: "React" },  
                 { icon: SiNextdotjs, color: "text-white", name: "Next.js" },
                 { icon: SiTailwindcss, color: "text-cyan-400", name: "Tailwind" },
                 { icon: FaJs, color: "text-yellow-400", name: "JavaScript" },
