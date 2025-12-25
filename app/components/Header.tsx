@@ -66,7 +66,7 @@ export default function Header() {
                             }
                         </nav>
                         <a
-                            href="/Currículo-Matheus-da-Gama-Leite.pdf"
+                            href="/Currículo-MatheusDaGamaLeite.pdf"
                             download
                             className="flex items-center justify-center gap-2 px-6 py-3 bg-linear-to-r from-purple-600 via-fuchsia-600 to-cyan-600 rounded-xl text-white hover:shadow-xl hover:shadow-purple-500/50 transition-all group"
                         >
